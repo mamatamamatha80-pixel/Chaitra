@@ -1,3 +1,6 @@
-# Chaitra
-This is my first Git Repository
-author - chaitra
+#include<stdio.h>
+void main   ()
+{
+printf("c program")
+getch();
+}
